@@ -72,7 +72,7 @@
 
 <!-- /BADGES -->
 
-![alt tag](assets/image_presentation.png "Slider Preview")
+![alt tag](assets/image_presentation100x100.png "Slider Preview")
 
 This is a Python script that allows for the automatic analysis of two
 images to compare the differences between them, a script that can
